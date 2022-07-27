@@ -1,0 +1,372 @@
+*{
+    margin-top: 5px;
+    font-size:30px;
+}
+
+.total{
+    width:90%;
+margin: 0px auto;
+}
+
+.upperhead{
+display: flex;
+justify-content: space-between;
+background-color: #82d2b7;
+width:90%;
+margin: 0px auto;
+}
+
+.facebook{
+    border-right: solid white 3px;
+}
+
+.right{
+    padding: 10px;
+    border-left: solid white 3px;
+}
+/*
+.upperhead{
+    width: 100%;
+    height: 20%;
+    background-color: aquamarine;
+    font-size: 1vw;
+}
+.head{
+    float: right;
+    width: 820px;
+    margin-right: 200px;
+}
+.head h2{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: -40px;
+}
+.head p{
+    font-size:15px;
+    margin-top: -30px;
+    float:right;
+}
+.head input{
+    margin-top: -10px;
+    float: right;
+}
+*/
+.navbar table{
+    background-color: plum;
+    margin: 0px auto;
+    width: 90%;
+}
+
+.navbar table tr td{
+    
+    height: 50px;
+    text-align: center;
+    border-left: 1px;
+    border-style: solid;
+    border-color:  white; 
+}
+.navbar table td a{
+    color: white;
+    text-decoration: none;
+}
+.mainbody h1{
+    margin-top: 2%;
+    text-align: center;
+    font-weight: bold;
+}
+
+.mainbody img {
+    width: 35%;
+    margin: 0% 33%;
+}
+
+.midcontent{
+    height: 20%;
+    width: 100%;
+    background-color:white;
+    margin-left: 5%;
+    padding-top: 5%;
+
+}
+.midleft {
+    float: left;
+    margin-right: 8%;
+    padding: 2% 4%;
+    text-align: center;
+    width: 40%;
+    color: black;
+}
+.midleft h2{
+    border-bottom: 2px dotted #fff;
+    margin-left: 55px;
+    padding-bottom: 30px;
+    font-size: 25px;
+    width: 250px;
+}
+.midleft p{
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 20px;
+    
+}
+.midimg img {
+    width: 30%;
+    height:5%;
+    padding: 1%;
+}
+
+.navbar2 table{
+    background-color: plum;
+    margin: 0px auto;
+    width: 90%;
+}
+
+.navbar2 table tr td{
+    
+    height: 50px;
+    text-align: center;
+    border-left: 1px;
+    border-style: solid;
+    border-color:  white; 
+}
+.navbar2 table td a{
+    color: white;
+    text-decoration: none;
+}
+.loginform {
+    font-size: 40%;
+    text-align: center;
+    width: 40%;
+    margin: 3% auto;
+  box-shadow: 5px 10px 10px #888888;
+}
+
+.loginform .user{
+    margin-left: -40px;
+    font-weight: bold;
+}
+
+.loginform .pass {
+    margin-left: -41px;
+    font-weight: bold;
+}
+.loginform .user input{
+    margin-left: 20px;
+}
+
+.loginform .pass input{
+    margin-left:157px;
+}
+
+.button{
+    padding-bottom:5%;
+}
+
+.button #login{
+     background-color:#82D2B7;
+}
+
+.registriform {
+    margin: 5% 23%;
+    text-align: center;
+    font-size: 2%;
+    width: 60%;
+    box-shadow: 5px 10px 10px #888888;
+}
+
+.registriform .email{
+   margin-left: 1%;
+}
+
+.registriform .email input {
+    margin-left: 6%;
+}
+
+.registriform .gender{
+    margin-left: -178px;
+}
+
+#gid{
+    margin-left: 3%;
+}
+
+#submit{
+    width:25%;
+    margin-bottom:3%;
+    font-size: 75%;
+    background-color:#82D2B7;
+}
+
+.tablecontent table tr th td{
+    width:450px;
+    height: 30px;
+    text-align: center;
+    border-left: 1px;
+    border-style: solid;
+    border-color:  white; 
+}
+
+.table5 h3{
+    text-align: center;
+    
+}
+
+#logo {
+    padding: 10px 10px 0px 10px;
+}
+
+#heading {
+    color: white;
+    padding-top: 30px;
+}
+
+.table5{
+    margin: 20px 0px;
+    margin-left: 114px;
+    
+}
+
+.table5 h3{
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.table5 .table{
+    width: 90%;
+    margin: 0% 2%;
+}
+
+.table table{
+    border: 1px solid black;
+}
+
+.table5 table tr td{
+    width: 381px;
+    height: 40px;
+    border-left: 1px;
+    border-style: solid;
+    border-color:  white; 
+    padding: 15px;
+    border: 2px solid black;
+}
+
+#tabletitle{
+    width:20%;
+    background-color:#1DD2AF;
+    text-align: center;
+    height: 50%;
+}
+
+#cell23{
+    background-color: tomato;
+    text-align: center;
+}
+
+#rowcolspan{
+    text-align: center;
+    background-color: tomato;
+}
+
+.table6{
+    margin: 3% 3%;
+    margin-left:10%;
+}
+
+.table6 h3 {
+    font-size: 60%;
+    font-weight: bold;
+    color: tomato;
+    margin-left: 70%;
+}
+
+.newsportaltable table{
+    border: 1px solid black;
+}
+
+.table6 .newsportaltable{
+    width: 90%;
+    margin: 0px 2%; 
+}
+
+
+
+/*
+.table6 .newsportaltable tr td img {
+    width: 50%;
+    height: 20%;
+    padding: 15px;
+}
+*/
+.table6 .newsportaltable tr td {
+    border: 1px solid black;
+}
+.table6 .newsportaltable tr td img {
+    width: 70%;
+    height: 30%;
+}
+
+.table7 .imgtable {
+    width: 90%;
+    height:500px;
+    margin: 0px auto;
+   /* margin: 10px 155px;*/
+}
+
+.table7 .imgtable tr td img {
+    width: 90%;
+    height: 150px;
+    border: 10px solid;
+    border-color: blanchedalmond;
+    border-radius: 10px;
+    margin-left: 5px;
+    
+}
+.table7 h1{
+    text-align: center;
+    margin: 20px;
+}
+
+
+.contactbody{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px auto;
+}
+
+
+.contactbody .contactright{
+    margin-top: 10%;
+    width:30%;
+    
+}
+
+.contactright h1{
+    font-size: 200%;
+    margin-bottom: 20px;
+    text-align: end;
+}
+
+.contactbody .contactleft{
+    width:50%;
+}
+
+.contactright .detail h5{
+    font-size: 150%;
+    text-align: end;
+    margin-bottom: 10px;
+}
+
+.contactright .detail ul{
+    text-align:end;
+        font-size: 100%;
+}
+
+.contactright .detail ul a{
+    font-size: 100%;
+    text-decoration: none;
+    font-style: italic;
+    color: black;
+    text-align:end;
+}
